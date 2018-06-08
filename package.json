@@ -1,0 +1,15 @@
+{
+  "name": "yfr_lib",
+  "version": "2.0.0",
+  "description": "common  tools for javascript library.20180608 1435 copyright by ren yan fei...",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webren2016/yfr_lib.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ren yan fei",
+  "license": "ISC"
+}
